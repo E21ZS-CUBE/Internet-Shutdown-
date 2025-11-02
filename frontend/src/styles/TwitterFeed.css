@@ -1,0 +1,116 @@
+.twitter-feed-container {
+  background: white;
+  border-radius: 12px;
+  padding: 25px;
+  margin: 30px 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.twitter-header {
+  margin-bottom: 20px;
+}
+
+.twitter-header h2 {
+  color: #2c3e50;
+  font-size: 24px;
+  margin-bottom: 8px;
+}
+
+.twitter-subtitle {
+  color: #666;
+  font-size: 14px;
+  margin: 0;
+}
+
+.tweets-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.tweet-card {
+  background: #f8f9fa;
+  padding: 15px;
+  border-radius: 8px;
+  border-left: 4px solid #1da1f2;
+}
+
+.tweet-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.tweet-user {
+  font-weight: 600;
+  color: #1da1f2;
+  font-size: 14px;
+}
+
+.verified-badge {
+  color: #1da1f2;
+  margin-left: 4px;
+}
+
+.tweet-time {
+  color: #999;
+  font-size: 12px;
+}
+
+.tweet-text {
+  color: #2c3e50;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.twitter-hashtags {
+  margin-top: 20px;
+  padding: 15px;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+
+.twitter-hashtags h4 {
+  color: #2c3e50;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.hashtag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.hashtag {
+  background: #e1f5fe;
+  color: #0277bd;
+  padding: 6px 12px;
+  border-radius: 16px;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.twitter-note {
+  margin-top: 20px;
+  padding: 12px;
+  background: #fff3cd;
+  border-left: 4px solid #ffc107;
+  border-radius: 4px;
+}
+
+.twitter-note p {
+  margin: 0;
+  color: #856404;
+  font-size: 13px;
+}
+
+@media (max-width: 768px) {
+  .tweet-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+  }
+}
