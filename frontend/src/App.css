@@ -1,0 +1,27 @@
+.app {
+  width: 100%;
+  min-height: 100vh;
+  background: #f0f2f5;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 24px;
+  color: #667eea;
+  background: #f0f2f5;
+}
+
+.warning-banner {
+  background: #fff3cd;
+  color: #856404;
+  padding: 16px;
+  text-align: center;
+  border-bottom: 2px solid #ffc107;
+  font-weight: 500;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
