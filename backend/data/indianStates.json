@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Maharashtra",
+    "code": "MH",
+    "geoJson": {
+      "type": "Feature",
+      "properties": { "name": "Maharashtra" },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    "districts": []
+  },
+  {
+    "name": "Karnataka",
+    "code": "KA",
+    "geoJson": {
+      "type": "Feature",
+      "properties": { "name": "Karnataka" },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    "districts": []
+  },
+  {
+    "name": "Tamil Nadu",
+    "code": "TN",
+    "geoJson": {
+      "type": "Feature",
+      "properties": { "name": "Tamil Nadu" },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    "districts": []
+  },
+  {
+    "name": "West Bengal",
+    "code": "WB",
+    "geoJson": {
+      "type": "Feature",
+      "properties": { "name": "West Bengal" },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    "districts": []
+  },
+  {
+    "name": "Uttar Pradesh",
+    "code": "UP",
+    "geoJson": {
+      "type": "Feature",
+      "properties": { "name": "Uttar Pradesh" },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    "districts": []
+  },
+  {
+    "name": "Bihar",
+    "code": "BR",
+    "geoJson": {
+      "type": "Feature",
+      "properties": { "name": "Bihar" },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    "districts": []
+  },
+  {
+    "name": "Rajasthan",
+    "code": "RJ",
+    "geoJson": {
+      "type": "Feature",
+      "properties": { "name": "Rajasthan" },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    "districts": []
+  },
+  {
+    "name": "Madhya Pradesh",
+    "code": "MP",
+    "geoJson": {
+      "type": "Feature",
+      "properties": { "name": "Madhya Pradesh" },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    "districts": []
+  },
+  {
+    "name": "Haryana",
+    "code": "HR",
+    "geoJson": {
+      "type": "Feature",
+      "properties": { "name": "Haryana" },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    "districts": []
+  },
+  {
+    "name": "Assam",
+    "code": "AS",
+    "geoJson": {
+      "type": "Feature",
+      "properties": { "name": "Assam" },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    "districts": []
+  },
+  {
+    "name": "Delhi",
+    "code": "DL",
+    "geoJson": {
+      "type": "Feature",
+      "properties": { "name": "Delhi" },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    "districts": []
+  },
+  {
+    "name": "Jammu & Kashmir",
+    "code": "JK",
+    "geoJson": {
+      "type": "Feature",
+      "properties": { "name": "Jammu & Kashmir" },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    "districts": []
+  },
+  {
+    "name": "Manipur",
+    "code": "MN",
+    "geoJson": {
+      "type": "Feature",
+      "properties": { "name": "Manipur" },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    "districts": []
+  },
+  {
+    "name": "Gujarat",
+    "code": "GJ",
+    "geoJson": {
+      "type": "Feature",
+      "properties": { "name": "Gujarat" },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    "districts": []
+  }
+]
